@@ -5,7 +5,7 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  background-color: #fdbf00;
+  background-color: #6b92fc;
 }
 .card {
   width: 640px;
@@ -35,7 +35,7 @@ body {
 }
 .inside {
   background: linear-gradient(to right, #e7e7e7, #ffffff 30%);
-  line-height: 3;
+  line-height: 2;
   padding: 0 20px;
   text-align: center;
   display: flex;
@@ -135,7 +135,11 @@ body {
   letter-spacing: 6px;
   color: #000046;
 }
-.inside h1 {
-  font-size: 120px;
-  line-height: 120px;
+.inside p {
+  font-size: 12px;
+  line-height: 3;
+}
+
+.the-gif {
+  width: 80%;
 }
